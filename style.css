@@ -934,3 +934,6 @@ footer a::before {
 	font-weight: normal;
 	font-style: normal;
 }                      
+.my li {
+  font-size: 20px;
+}
